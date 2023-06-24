@@ -10,7 +10,7 @@ body, h1, h2, p, ul, li, form, input, textarea {
   
   body {
     font-family: 'Permanent Marker', cursive;
-    background-color: #928181;
+    background-color: #3b2a2aca;
   }
   
   header {
@@ -54,7 +54,7 @@ body, h1, h2, p, ul, li, form, input, textarea {
     background-image: url('hero-background.jpg');
     background-position: center;
     background-size: cover;
-    color: #d3bdbd;
+    color: #daa2a2e9;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -154,4 +154,10 @@ body, h1, h2, p, ul, li, form, input, textarea {
  }
  button :hover{
   background-color: #2f201f8d;
+ }
+ ul{
+  color: #cb9d95aa;
+ }
+ p{
+  color: #cb9d95aa;
  }
